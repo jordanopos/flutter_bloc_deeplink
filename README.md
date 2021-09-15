@@ -5,7 +5,7 @@
 <div style="display : flex">
      <img src="./screenshots/Screenshot_1631700225.png" height="550" width="250"/>
 <img src="./screenshots/Screenshot_1631700233.png" height="550" width="250"/>
-<img src="./screenshots/Screenshot_1631700233.png" height="550" width="250"/>
+<img src="./screenshots/Screenshot_1631700240.png" height="550" width="250"/>
 </div>
 
 
