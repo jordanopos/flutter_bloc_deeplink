@@ -2,7 +2,7 @@
 
 ### Screenshots
 
-![Screenshot_1631700225.png]("screenshots/Screenshot_1631700225.png")
+![Screenshot_1631700225.png](screenshots/Screenshot_1631700225.png height="250" width="250")
 
 ![Screenshot_1631700233.png](screenshots/Screenshot_1631700233.png =250x)
 
