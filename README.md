@@ -2,11 +2,11 @@
 
 ### Screenshots
 
-![Screenshot_1631700225.png](Flutter%20Bloc%20DeepLink%20Demo%2013a9b333b41149008d769e417ef5eb39/Screenshot_1631700225.png)
+![Screenshot_1631700225.png](screenshots/Screenshot_1631700225.png =250x)
 
-![Screenshot_1631700233.png](Flutter%20Bloc%20DeepLink%20Demo%2013a9b333b41149008d769e417ef5eb39/Screenshot_1631700233.png)
+![Screenshot_1631700233.png](screenshots/Screenshot_1631700233.png =250x)
 
-![Screenshot_1631700240.png](Flutter%20Bloc%20DeepLink%20Demo%2013a9b333b41149008d769e417ef5eb39/Screenshot_1631700240.png)
+![Screenshot_1631700240.png](screenshots/Screenshot_1631700240.png =250x)
 
 ### About
 
